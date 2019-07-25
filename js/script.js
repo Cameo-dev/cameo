@@ -29,3 +29,5 @@ $(function() {
     $window.trigger('scroll');
 
 });
+/*smooth scroll for chrome */
+$('html, body').css({'scroll-behavior': 'smooth'})
