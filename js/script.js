@@ -30,4 +30,4 @@ $(function() {
 
 });
 /*smooth scroll for chrome */
-$('html, body').css({'scroll-behavior': 'smooth'})
+// $('html, body').css({'scroll-behavior': 'smooth'})
